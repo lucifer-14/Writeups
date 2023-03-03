@@ -1,3 +1,7 @@
+# Mission 1
+
+You only need basic knowledge of HTML to crack this.
+
 **HINT:** View the page source or Inspect
 
 <details>
