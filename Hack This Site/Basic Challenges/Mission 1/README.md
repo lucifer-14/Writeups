@@ -1,4 +1,4 @@
-*HINT: * View the page source or Inspect
+**HINT:** View the page source or Inspect
 
 <details>
   <summary> Reveal Answer </summary>
