@@ -1,8 +1,7 @@
 def decrypt(data: str) -> str:
     res = ""
     for i, c in enumerate(data):
-        tmp = chr(ord(c) - i)
-        res += tmp
+        res += chr(ord(c) - i)
     return res
 
 
