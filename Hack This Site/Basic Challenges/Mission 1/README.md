@@ -9,6 +9,8 @@ You only need basic knowledge of HTML to crack this.
 
 </details>
 
+---
+
 <details>
   <summary> Reveal Answer </summary>
   

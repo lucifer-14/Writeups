@@ -9,6 +9,8 @@ You only need to have basic knowledge of HTML and understand how 'if' conditions
   
 </details>
 
+---
+
 <details>
   <summary> Reveal Answer </summary>
   
@@ -16,4 +18,4 @@ You only need to have basic knowledge of HTML and understand how 'if' conditions
   
 </details>
 
-[Next >>](../Mission%203/)
+[<< Previous](../Mission%201/) &nbsp;&nbsp;|&nbsp;&nbsp; [Next >>](../Mission%203/)

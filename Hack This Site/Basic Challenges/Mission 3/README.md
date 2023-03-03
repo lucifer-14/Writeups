@@ -36,4 +36,4 @@ You only need to have basic knowledge of HTML and how URLs work to crack this.
 
 </details>
 
-[Next >>](../Mission%204/)
+[<< Previous](../Mission%202/) &nbsp;&nbsp;|&nbsp;&nbsp; [Next >>](../Mission%204/)
