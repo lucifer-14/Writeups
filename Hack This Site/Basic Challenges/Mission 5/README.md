@@ -7,7 +7,7 @@ You only need to have basic knowledge of HTML to crack this.
   
   **Hint:** Take a closer look at the elements of the HTML form.
 
-  **Note:** I don't know what is the difference between the previous one and this one. For me, I solved this one with the same method as the previous one.
+  **Note:** I also don't know the difference between the previous one and this one. For me, I solved this one with the same method as the previous one.
   
 </details>
 
