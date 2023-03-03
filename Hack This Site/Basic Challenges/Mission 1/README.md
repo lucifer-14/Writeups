@@ -7,4 +7,4 @@
   
 </details>
 
-[Next >>](../Mission 2/)
+[Next >>](../Mission%202/)
