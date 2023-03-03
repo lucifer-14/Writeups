@@ -2,12 +2,17 @@
 
 You only need basic knowledge of HTML to crack this.
 
-**HINT:** View the page source or Inspect
+<details>
+  <summary> Reveal Hint </summary>
+
+  **Hint:** View the page source or Inspect
+
+</details>
 
 <details>
   <summary> Reveal Answer </summary>
   
-  Check the comments in page source.
+  **Answer:** Check the comments in page source.
   
 </details>
 
