@@ -21,7 +21,7 @@ You only need to have basic knowledge of HTML to crack this.
   <details>
   <summary>Reveal for Dummies</summary>
 
-  **For Dummies:** Change the email address to your own email 'example@gmail.com' and click on send button. Then check your mail. And, you will see a mail is sent to you.
+  **For Dummies:** Change the email address to your own email 'example@gmail.com' and click on send button. Then check your mail. And, you will see that a mail is sent to you.
 
   </details>
   
