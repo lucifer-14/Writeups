@@ -1,19 +1,30 @@
-# Mission 2
+# Mission 4
 
-You only need to have basic knowledge of HTML and understand how 'if' conditions work to crack this. 
+You only need to have basic knowledge of HTML to crack this.
 
 <details>
   <summary> Reveal Hint </summary>
   
-  **Hint:** Sam forgot to upload the password file. So, what do you think the user input will be checked against?
+  **Hint:** Take a closer look at the elements of the HTML form.
   
 </details>
+
+---
 
 <details>
   <summary> Reveal Answer </summary>
   
-  **Answer:** Since the password file doesn't exist, the 'if' condition is checking against a blank.
+  **Answer:** You can see that there is a hidden child element of the form. The value of this hidden element is the email address the password is sent to.
+
+  **Note:** You can only use the email address you used to register your account else the mail will not be sent. 
+
+  <details>
+  <summary>Reveal for Dummies</summary>
+
+  **For Dummies:** Change the email address to your own email 'example@gmail.com' and click on send button. Then check your mail. And, you will see a mail is sent to you.
+
+  </details>
   
 </details>
 
-[Next >>](../Mission%203/)
+[<< Previous](../Mission%203/) &nbsp;&nbsp;|&nbsp;&nbsp; [Next >>](../Mission%205/)

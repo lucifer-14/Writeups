@@ -32,7 +32,7 @@ You only need to have basic knowledge of HTML and how URLs work to crack this.
 
   **Bonus Knowledge:** You can also find out this hidden file by monitoring the network traffic.
 
-  In the Developer tools, go to the Network section. Then, type in any password in the form and press submit button. You can see that an extra data is sent along with the password when the browser made a request to index.php.
+  In the Developer tools, go to the Network section. Then, type in any password in the form and click submit button. You can see that an extra data is sent along with the password when the browser made a request to index.php.
 
 </details>
 
