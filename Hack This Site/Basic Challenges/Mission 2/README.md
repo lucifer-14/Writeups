@@ -12,8 +12,8 @@ You only need to have basic knowledge of HTML and understand how 'if' conditions
 <details>
   <summary> Reveal Answer </summary>
   
-  Answer: Since the password file doesn't exist, the 'if' condition is checking against a blank 
+  Answer: Since the password file doesn't exist, the 'if' condition is checking against a blank.
   
 </details>
 
-[Next >>](../Mission%202/)
+[Next >>](../Mission%203/)
