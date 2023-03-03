@@ -1,3 +1,8 @@
-|hello|abc isldsf jlfsa jslaf|hi|
-| --- |:--------------------:|---|
-|adsflsldf|ok|abcdef|
+*HINT: * View the page source or Inspect
+
+<details>
+  <summary> Reveal Answer </summary>
+  
+  Check the comments in page source.
+  
+</details>
